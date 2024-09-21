@@ -52,7 +52,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Buland
+            Buland Asati
           </a>
         </Typography>
       </Paper>
