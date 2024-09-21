@@ -42,17 +42,17 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2024 AshuFlix Developed by{' '}
+          &copy; 2024 StreamFlix Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
               color: theme.palette.primary.main
             }}
-            href="https://ashuflix.vercel.app/"
+            href="https://stream-flix-me.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Ashish Yadav
+            Buland
           </a>
         </Typography>
       </Paper>
