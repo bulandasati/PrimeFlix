@@ -8,7 +8,7 @@ const Logo = () => {
   return (
     <Typography variant="h6" fontWeight="bold" fontSize="1.7rem">
       <Link to="/" style={{ textDecoration: 'none' }}>
-        <span style={{ color: theme.palette.primary.main }}>AshuFlix</span>
+        <span style={{ color: theme.palette.primary.main }}>StreamFlix</span>
       </Link>
     </Typography>
   );
