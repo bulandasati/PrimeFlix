@@ -1,7 +1,7 @@
 import axios from "axios";
 import queryString from "query-string";
 
-const baseURL = "https://ashuflix-server.onrender.com/api/v1/";
+const baseURL = "https://streamflix-server-578m.onrender.com/api/v1/";
 
 const publicClient = axios.create({
   baseURL,
